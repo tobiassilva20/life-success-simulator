@@ -1,6 +1,6 @@
 public class LifeSucessSimulator{
 
-	// Try succeed in while you're no dead!
+	// Try succeed in life while you're not dead!
 	public static void main(String args[]){
 		Life myLife = new Life();
 		myLife.startLife();
