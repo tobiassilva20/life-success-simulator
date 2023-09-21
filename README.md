@@ -39,13 +39,13 @@ Entre no diretório do projeto
 Caso possua o JDK instalado, rode para compilar
 
 ```bash
-  javac LifeSucessSimulator
+  javac LifeSucessSimulator.java
 ```
 
-Após a compilação, uso o comando abaixo para rodar
+Após a compilação, use o comando abaixo para rodar
 
 ```bash
- javac LifeSucessSimulator
+ java LifeSucessSimulator
 ```
 #### Fonte da imagem:
 
